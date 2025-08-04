@@ -6,3 +6,6 @@ if __name__ == "__main__":
     x = int(input("Enter first number: "))
     y = int(input("Enter second number: "))
     print(f"The sum is: {add_numbers(x, y)}")
+
+
+print("Hello from featureplus")
